@@ -1,0 +1,12 @@
+
+#fontStyle{
+	font-weight: bold;
+	font-size: 20px;
+}
+.modalFont{
+	color: blue;
+}
+
+.d-none{
+	display: none;
+}
